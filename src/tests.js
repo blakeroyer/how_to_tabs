@@ -1,5 +1,5 @@
 // Copyright (c) 2015 Titanium I.T. LLC. All rights reserved. For license, see "README" or "LICENSE" file.
-// Here's a new message that should show up if I'm using git via sublimetext properly
+// Tried out git quick
 
 (function() {
     "use strict";
