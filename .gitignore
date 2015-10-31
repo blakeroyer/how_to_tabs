@@ -10,3 +10,9 @@ node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/ws
 node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/ws/node_modules/utf-8-validate/build/
 node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/bufferutil/build/
 node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/utf-8-validate/build/
+
+# New Binaries after installing karma-common.js
+node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/ws/node_modules/bufferutil/build/Release/bufferutil.node
+node_modules/karma/node_modules/socket.io/node_modules/engine.io/node_modules/ws/node_modules/utf-8-validate/build/Release/validation.node
+node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/bufferutil/build/Release/bufferutil.node
+ node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/utf-8-validate/build/Release/validation.node
